@@ -1,0 +1,20 @@
+{
+    "name": "molineux",
+    "displayName": "Molineux",
+    "publisher": "archiehicklin",
+    "description": "A neon-tinged dark syntax theme for VS Code from the future, drifting across pixels via the refracted window on a rainy night.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [{
+            "label": "Molineux",
+            "uiTheme": "vs-dark",
+            "path": "./themes/Molineux-color-theme.json"
+        }]
+    }
+}
